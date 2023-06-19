@@ -15,17 +15,17 @@ export default {
 <template>
    <AppHeader></AppHeader>
 
-
+    <router-view class="body"></router-view>
 
    <AppFooter></AppFooter>
 </template>
 
 <style lang="scss">
 
-
-body{
+.body{
     background-color: #161616;
-    color: white;
+    color: white
 }
+
 
 </style>
