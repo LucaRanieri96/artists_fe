@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-    <h1 class="green">La mia prima app con <span class="yellow">Vite!</span></h1>
+    <h1 class="green">ABOUT</h1>
 </template>
 
 <style lang="scss" scoped>
