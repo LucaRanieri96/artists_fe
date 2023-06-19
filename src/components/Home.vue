@@ -1,6 +1,6 @@
 <script>
 export default {
-    name: "HelloWorld",
+    name: "Home",
 }
 </script>
 
@@ -9,6 +9,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+
 h1 {
     font-size: 1.4em;
 
